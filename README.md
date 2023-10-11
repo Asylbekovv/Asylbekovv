@@ -38,6 +38,8 @@ Additionally, I have studied JavaScript and completed Python courses.
 [![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=Asylbekovv&theme=light)](https://github.com/Asylbekovv/leetcode-stats)
 
 ---
+### ⚙️ WakaTime Statistics
+<figure><embed src="https://wakatime.com/share/@e1bd07c3-273c-47c9-88c9-4b410b29b2b6/86caa83d-2a45-4a8c-8d39-2227588c2015.svg"></embed></figure>
 
 ### ⚙️ GitHub Statistics
 <table>
