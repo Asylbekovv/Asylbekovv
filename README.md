@@ -5,22 +5,23 @@
 ### :man_technologist: About Me
 I'm a Python Backend Developer.
 
-![Python Developer]<p align="center">
-  <img src="https://your-image-url-here.com" alt="snake"/>
-</p>
-
+![Python Developer](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)
 
 ---
 
 ### 🤝 Connect with Me
-- [Telegram](https://t.me/namesis0)
+- [Telegram Group](https://t.me/namesis0)
 - [VK Profile](https://vk.com/nemesisnw)
 
 ---
 
 ### 💻 Technologies
-- Python
-- Git
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt "Git" width="40" height="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40" />&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40" />&nbsp;
+</div>
 
 ---
 
