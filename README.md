@@ -3,10 +3,8 @@
 ---
 
 ### :man_technologist: About Me
-I'm a Python Backend Developer.(https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)](https://github.com/FilimonovAlexey/FilimonovAlexey/blob/main/assets/github-snake.svg)
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
+I'm a Python Backend Developer.
+(https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)](https://github.com/FilimonovAlexey/FilimonovAlexey/blob/main/assets/github-snake.svg)
 ---
 
 ### 🤝 Connect with Me
