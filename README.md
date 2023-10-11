@@ -5,12 +5,15 @@
 ### :man_technologist: About Me
 I'm a Python Backend Developer.
 
-![Python Developer](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)
+![Python Developer]<p align="center">
+  <img src="https://your-image-url-here.com" alt="snake"/>
+</p>
+
 
 ---
 
 ### 🤝 Connect with Me
-- [Telegram Group](https://t.me/namesis0)
+- [Telegram](https://t.me/namesis0)
 - [VK Profile](https://vk.com/nemesisnw)
 
 ---
