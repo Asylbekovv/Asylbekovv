@@ -43,11 +43,7 @@ Additionally, I have studied JavaScript and completed Python courses.
 <table>
   <tr>
     <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Asylbekovv&theme=dark&background=000000" alt="GitHub Streak Stats" />
-    </td>
-    <td>
-      <img height="195px" align "right" alt="GitHub Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Asylbekovv&layout=compact&theme=vision-friendly-dark" />
-    </td>
+     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Asylbekovv&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
   </tr>
 </table>
 
