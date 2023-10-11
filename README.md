@@ -1,11 +1,5 @@
-# Hi, my name is Arstan!
-
----
-
 ### :man_technologist: About Me
 I'm a Python Backend Developer.
-
-![Python Developer](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)
 
 ---
 
