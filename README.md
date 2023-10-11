@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @Asylbekovv
-- 👀 I’m interested in Programming Python
-- 📫 How to reach me /t.me/namesis0
+img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=black"/
 
