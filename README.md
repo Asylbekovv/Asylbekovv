@@ -8,7 +8,7 @@ Additionally, I have studied JavaScript and completed Python courses.
 
 ### 🤝 Connect with Me
 <div id="badges">
-  <a href="https://t.me/namesis0" target="_blank">
+  <a href="https://t.me/nemesisnw" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram" />
   </a>
   <a href="https://vk.com/nemesisnw" target="_blank">
