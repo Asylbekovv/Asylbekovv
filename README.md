@@ -39,11 +39,4 @@ Additionally, I have studied JavaScript and completed Python courses.
 
 ---
 
-### ⚙️ GitHub Statistics
-<table>
-  <tr>
-    <td>
-     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Asylbekovv&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-  </tr>
-</table>
 
