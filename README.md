@@ -34,8 +34,6 @@ Additionally, I have studied JavaScript and completed Python courses.
 
 ---
 
-### 💻 LeetCode
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=Asylbekovv&theme=light)](https://github.com/Asylbekovv/leetcode-stats)
 
 ---
 
