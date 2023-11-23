@@ -3,7 +3,7 @@ Hello, my name is Arstan. I'm a Python backend developer.
 I graduated from School Number 5 and studied at the IT Academy college. Currently,
 I'm involved in Python development and I'm a second-year student at Balasagyn National University.
 Additionally, I have studied JavaScript and completed Python courses.
-
+🙇‍♂️
 ---
 
 ### 🤝 Connect with Me
