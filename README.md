@@ -5,6 +5,7 @@ I'm involved in Python development and I'm a second-year student at Balasagyn Na
 Additionally, I have studied JavaScript and completed Python courses.
 .
 ---
+---
 
 ### 🤝 Connect with Me
 <div id="badges">
